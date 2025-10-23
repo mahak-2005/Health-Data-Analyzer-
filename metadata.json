@@ -1,0 +1,5 @@
+{
+  "name": "NFHS Health Data Analyzer",
+  "description": "An interactive dashboard to analyze and visualize stress-related health indicators from India's National Family Health Survey (NFHS) data, featuring AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
